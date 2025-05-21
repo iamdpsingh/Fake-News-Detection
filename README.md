@@ -80,7 +80,7 @@ This will:
 After training, start the Streamlit app:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Then open [http://localhost:8501](http://localhost:8501) in your browser.
